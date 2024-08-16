@@ -19,55 +19,63 @@
 
 **Sept 3** Coding standards and Code Reviews, project ideas, get teams together
 
-**Sept 5 ** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 
+**Sept 5** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 
 
 ---
 ***Week 4:***
 
 **Sept 10** Scrum, start thinking about the product backlog
 
-Sprint 1 planning meeting
-
-**Sept 12** Only Tuesday groups meet in class
+**Sept 12** Security and/or Containers
 
 ---
 ***Week 5:*** 
 
-**Sept 17** Only Thursday groups meet class
+Sprint 1 planning meeting
 
-Daily (Weekly) Scrum and status check
+**Sept 17** Only Tuesday groups meet class
 
-**Sept 19** Only Tuesday groups meet in class
+**Sept 19** Only Thursday groups meet in class
 
 ---
 ***Week 6:***
 
-**Sept 24** Only Thursday groups meet in class
+Daily (Weekly) Scrum and status check for Sprint 1
 
-**Sept 26** No Class. You are encouraged to meet with your groups.
+**Sept 24** Only Tuesday groups meet in class
+
+**Sept 26** Only Thursday groups meet in class
+
 ---
 
 ***Week 7:***
 
-**Oct 1** 
+Sprint 1 Review meeting and Sprint 2 planning meeting
 
-**Oct 3**
+**Oct 1** Only Tuesday groups meet in class
+
+**Oct 3** Only Thursday groups meet in class
 
 ---
-***Spring Break***
 
-**Oct 8** 
+Daily (Weekly) Scrum and status check for Sprint 2
+
+**Oct 8** No Class! (Fall Break)
 
 **Oct 10**
 
 ---
 ***Week 9:***
 
+Sprint 2 Review meeting and Sprint 3 planning meeting
+
 **Oct 15** 
 
-**Oct 17**
+**Oct 17**  No Class! (Engineers Day)
 ---
 ***Week 10:***
+
+Daily (Weekly) Scrum and status check for Sprint 3
 
 **Oct 22** 
 
@@ -76,6 +84,8 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 11:***
 
+Sprint 3 Review meeting and Sprint 4 planning meeting
+
 **Oct 29** 
 
 **Oct 31**
@@ -83,31 +93,34 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 12:***
 
+Daily (Weekly) Scrum and status check for Sprint 4
 
 **Nov 5**  No Class! (election day)
 
 **Nov 7**  
 
+Note: There is no Sprint 4 review meeting. The final presentation will take the place of the sprint 4 demo
+
 ---
 ***Week 13:***
 
-**Nov 12**
+**Nov 12**  Project presentations
 
-**Nov 14** 
+**Nov 14** Project presentations
 
 ---
 ***Week 14:***
 
-**Nov 19** Thanksgiving Break
+**Nov 19** Project presentations
 
-**Nov 21** Project presentations:
+**Nov 21** Project presentations
 
 ---
 ***Week 15:***
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
-**Nov 26**
+**Nov 26**  Project presentations
 
 **Nov 28** No Class! (Thanksgiving):
 
@@ -122,7 +135,6 @@ Daily (Weekly) Scrum and status check
 ---
 ***Final:***
 
-Last day of finals is Dec 11
-**Dec ?** Final X-Y Project presentations
+**Dec 11** (Final exam timeslot: 8:00-10:15) Project presentations
 
 ---
