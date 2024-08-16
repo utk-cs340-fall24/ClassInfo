@@ -57,6 +57,7 @@ Sprint 1 Review meeting and Sprint 2 planning meeting
 **Oct 3** Only Thursday groups meet in class
 
 ---
+***Week 8:***
 
 Daily (Weekly) Scrum and status check for Sprint 2
 
