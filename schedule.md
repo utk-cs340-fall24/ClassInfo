@@ -72,6 +72,7 @@ Sprint 2 Review meeting and Sprint 3 planning meeting
 **Oct 15** 
 
 **Oct 17**  No Class! (Engineers Day)
+
 ---
 ***Week 10:***
 
