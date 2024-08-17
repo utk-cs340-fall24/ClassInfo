@@ -27,10 +27,11 @@ file named with your netid with a reflection on this sprint. Use the template na
 in this ClassInfo github page.
 3. Individually: In the same sprint<n> directory, create a file named netid.commits.txt (use your netid
   in place of netid). In that file, show all source code lines you committed for this sprint. Use git
-  blame and filter only the lines from this sprint (git blame filename.cpp | grep your-user-name > output_file). 
+  blame and filter only the lines from this sprint (git blame filename.cpp | grep your-user-name > output_file).
+  List the filenames of each file before listing the commits for that file. 
   Do not include binary files (like images) or files
   auto-generated from tools. Do include those files in the reflection where you list the files you worked on.
-4. Individually: On Canvas, submit links to your reflection file and commits file. Also submit a short sprint 
+5. Individually: On Canvas, submit links to your reflection file and commits file. Also submit a short sprint 
 retrospective to describe what went well in the sprint and what could be improved for the next sprint.
   
  # Due Date
