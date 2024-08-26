@@ -3,14 +3,14 @@
 
 ***Week 1:***
 
-**Aug 20** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1 (due Sept 1)
+**Aug 20** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1 (due Aug 22)
 
-**Aug 22** SDLC: waterfall, assignment 2 (due Sept 6)
+**Aug 22** SDLC: waterfall, assignment 2 (due Aug 27)
 
 ---
 ***Week 2:***
 
-**Aug 27** Agile Methodologies, project ideas
+**Aug 27** Agile Methodologies, project ideas, assignment 3 (due Sept 3)
 
 **Aug 29** Agile/Scrum, project ideas, start getting teams together
 
@@ -26,25 +26,25 @@
 
 **Sept 10** Scrum, start thinking about the product backlog
 
-**Sept 12** Security and/or Containers
+**Sept 12** Security, Containers, Virtual Machines
 
 ---
 ***Week 5:*** 
 
 Sprint 1 planning meeting
 
-**Sept 17** Only Tuesday groups meet class
+**Sept 17** 
 
-**Sept 19** Only Thursday groups meet in class
+**Sept 19** 
 
 ---
 ***Week 6:***
 
 Daily (Weekly) Scrum and status check for Sprint 1
 
-**Sept 24** Only Tuesday groups meet in class
+**Sept 24** 
 
-**Sept 26** Only Thursday groups meet in class
+**Sept 26** 
 
 ---
 
@@ -52,9 +52,9 @@ Daily (Weekly) Scrum and status check for Sprint 1
 
 Sprint 1 Review meeting and Sprint 2 planning meeting
 
-**Oct 1** Only Tuesday groups meet in class
+**Oct 1** 
 
-**Oct 3** Only Thursday groups meet in class
+**Oct 3** 
 
 ---
 ***Week 8:***
