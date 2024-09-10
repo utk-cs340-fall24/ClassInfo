@@ -33,18 +33,18 @@
 
 Sprint 1 planning meeting
 
-**Sept 17** 
+**Sept 17** Only Tuesday groups meet in class
 
-**Sept 19** 
+**Sept 19** Only Thursday groups meet in class
 
 ---
 ***Week 6:***
 
 Daily (Weekly) Scrum and status check for Sprint 1
 
-**Sept 24** 
+**Sept 24** Only Tuesday groups meet in class
 
-**Sept 26** 
+**Sept 26** Only Thursday groups meet in class
 
 ---
 
@@ -52,9 +52,9 @@ Daily (Weekly) Scrum and status check for Sprint 1
 
 Sprint 1 Review meeting and Sprint 2 planning meeting
 
-**Oct 1** 
+**Oct 1** Only Tuesday groups meet in class
 
-**Oct 3** 
+**Oct 3** Only Thursday groups meet in class
 
 ---
 ***Week 8:***
@@ -63,7 +63,7 @@ Daily (Weekly) Scrum and status check for Sprint 2
 
 **Oct 8** No Class! (Fall Break)
 
-**Oct 10**
+**Oct 10** All groups meet in class
 
 ---
 ***Week 9:***
