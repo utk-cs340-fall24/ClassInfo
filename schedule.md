@@ -26,7 +26,7 @@
 
 **Sept 10** Scrum, start thinking about the product backlog
 
-**Sept 12** Security, Containers, Virtual Machines
+**Sept 12** Agile, finalize project
 
 ---
 ***Week 5:*** 
@@ -63,7 +63,7 @@ Daily (Weekly) Scrum and status check for Sprint 2
 
 **Oct 8** No Class! (Fall Break)
 
-**Oct 10** All groups meet in class
+**Oct 10** All groups meet in class. Security, Containers, Virtual Machines
 
 ---
 ***Week 9:***
