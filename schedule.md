@@ -70,27 +70,27 @@ Daily (Weekly) Scrum and status check for Sprint 2
 
 Sprint 2 Review meeting and Sprint 3 planning meeting
 
-**Oct 15** 
+**Oct 15** Tuesday groups meet
 
-**Oct 17**  No Class! (Engineers Day)
+**Oct 17**  No Class! (Engineers Day). Thursday groups will do Sprint 2 review meetin bu Zoom
 
 ---
 ***Week 10:***
 
 Daily (Weekly) Scrum and status check for Sprint 3
 
-**Oct 22** 
+**Oct 22** only Tusday groups meet
 
-**Oct 24** 
+**Oct 24** only Thursday groups meet
 
 ---
 ***Week 11:***
 
 Sprint 3 Review meeting and Sprint 4 planning meeting
 
-**Oct 29** 
+**Oct 29** only Tusday groups meet
 
-**Oct 31**
+**Oct 31** only Thursday groups meet
 
 ---
 ***Week 12:***
