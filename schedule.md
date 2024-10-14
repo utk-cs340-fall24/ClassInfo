@@ -99,7 +99,7 @@ Daily (Weekly) Scrum and status check for Sprint 4
 
 **Nov 5**  No Class! (election day)
 
-**Nov 7**  
+**Nov 7**  All groups meet
 
 Note: There is no Sprint 4 review meeting. The final presentation will take the place of the sprint 4 demo
 
