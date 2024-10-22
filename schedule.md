@@ -108,14 +108,34 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 12**  Project presentations
 
+- 
+- 
+- 
+- 
+
 **Nov 14** Project presentations
+
+- 
+- 
+- 
+- 
 
 ---
 ***Week 14:***
 
 **Nov 19** Project presentations
 
+- 
+- 
+- 
+- 
+
 **Nov 21** Project presentations
+
+- 
+- 
+- 
+- 
 
 ---
 ***Week 15:***
@@ -124,14 +144,28 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 26**  Project presentations
 
+- Pick Your Place
+- 
+- 
+- 
+
 **Nov 28** No Class! (Thanksgiving):
 
 ---
 ***Week 16:***
+- 
+- 
+- 
+- 
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **Dec 3** Project presentations (last day of classes)
+
+- 
+- 
+- 
+- 
 
 
 ---
