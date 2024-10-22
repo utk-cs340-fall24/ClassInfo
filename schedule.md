@@ -167,11 +167,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 ---
 ***Final:***
 
-**Dec 11** (Final exam timeslot: 8:00-10:15) Project presentations
+**Dec 11** (Final exam timeslot: 8:00-10:15) Project presentations (if needed)
 
-- 
-- 
-- 
-- 
 
 ---
