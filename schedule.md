@@ -153,10 +153,6 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 ---
 ***Week 16:***
-- 
-- 
-- 
-- 
 
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
@@ -172,5 +168,10 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 ***Final:***
 
 **Dec 11** (Final exam timeslot: 8:00-10:15) Project presentations
+
+- 
+- 
+- 
+- 
 
 ---
