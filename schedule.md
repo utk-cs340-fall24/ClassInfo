@@ -108,17 +108,17 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 12**  Project presentations
 
-- 
-- 
+- Client Portal
+- Skill Lab
 - 
 - 
 
 **Nov 14** Project presentations
 
 - OpenVinyl
-- 
-- 
-- 
+- Gain & Grain
+- SolSync
+- Gain and Grain
 
 ---
 ***Week 14:***
@@ -146,8 +146,8 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - Pick Your Place
 - Chords and Scales
-- 
-- 
+- Tabletop Stat Tracker
+- Pick Ur Place
 
 **Nov 28** No Class! (Thanksgiving):
 
