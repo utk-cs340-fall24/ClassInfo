@@ -110,7 +110,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - Client Portal
 - Skill Lab
-- 
+- Rocky Top Transit?
 - 
 
 **Nov 14** Project presentations
@@ -125,15 +125,15 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 19** Project presentations
 
-- 
-- 
-- 
+- Note Taker
+- notJSON
+- Dungeon Crawler
 - 
 
 **Nov 21** Project presentations
 
-- 
-- 
+- Class Scheduler Assistant
+- Patient Management DB
 - 
 - 
 
@@ -148,6 +148,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Chords and Scales
 - Tabletop Stat Tracker
 - Pick Ur Place
+- Albumi
 
 **Nov 28** No Class! (Thanksgiving):
 
@@ -160,8 +161,8 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - Skincare Recommender
 - Alternate Career Planner
-- 
-- 
+- World Building Tool
+- LinguistAI
 
 
 ---
