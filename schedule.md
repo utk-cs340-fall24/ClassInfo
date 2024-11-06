@@ -118,7 +118,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - OpenVinyl
 - Gain & Grain
 - SolSync
-- Gain and Grain
+- 
 
 ---
 ***Week 14:***
@@ -128,14 +128,16 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Note Taker
 - notJSON
 - Dungeon Crawler
-- 
+- Typing Training Game
+- Restaurant Chooser
 
 **Nov 21** Project presentations
 
 - Class Scheduler Assistant
 - Patient Management DB
 - Quiz Mouse
-- 
+- WinDoorStat
+- iHear
 
 ---
 ***Week 15:***
@@ -144,7 +146,6 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 26**  Project presentations
 
-- Pick Your Place
 - Chords and Scales
 - Tabletop Stat Tracker
 - Pick Ur Place
