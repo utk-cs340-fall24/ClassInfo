@@ -110,7 +110,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - Client Portal
 - Skill Lab
-- Rocky Top Transit?
+- 
 - 
 
 **Nov 14** Project presentations
@@ -150,6 +150,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Tabletop Stat Tracker
 - Pick Ur Place
 - Albumi
+- Rocky Top Transit
 
 **Nov 28** No Class! (Thanksgiving):
 
