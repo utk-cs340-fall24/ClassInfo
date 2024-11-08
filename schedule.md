@@ -127,7 +127,6 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - Note Taker
 - notJSON
-- Dungeon Crawler
 - Typing Training Game
 - Restaurant Chooser
 
@@ -164,6 +163,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Alternate Career Planner
 - World Building Tool
 - LinguistAI
+- Dungeon Crawler
 
 
 ---
