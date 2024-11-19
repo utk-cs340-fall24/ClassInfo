@@ -126,7 +126,6 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 **Nov 19** Project presentations
 
 - Note Taker
-- notJSON
 - Typing Training Game
 - Restaurant Chooser
 
@@ -136,6 +135,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Patient Management DB
 - Quiz Mouse
 - iHear
+- notJSON
 
 ---
 ***Week 15:***
